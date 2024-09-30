@@ -1,0 +1,1 @@
+console.log ("Hola desde JavaScript desde un archivo externo!!");
